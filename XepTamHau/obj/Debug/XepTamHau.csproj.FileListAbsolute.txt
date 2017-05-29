@@ -1,0 +1,6 @@
+E:\HOC_KY_6\PTTKGT\BaiTap\11_XepTamHau\XepTamHau\XepTamHau\bin\Debug\XepTamHau.exe.config
+E:\HOC_KY_6\PTTKGT\BaiTap\11_XepTamHau\XepTamHau\XepTamHau\bin\Debug\XepTamHau.exe
+E:\HOC_KY_6\PTTKGT\BaiTap\11_XepTamHau\XepTamHau\XepTamHau\bin\Debug\XepTamHau.pdb
+E:\HOC_KY_6\PTTKGT\BaiTap\11_XepTamHau\XepTamHau\XepTamHau\obj\Debug\XepTamHau.csprojResolveAssemblyReference.cache
+E:\HOC_KY_6\PTTKGT\BaiTap\11_XepTamHau\XepTamHau\XepTamHau\obj\Debug\XepTamHau.exe
+E:\HOC_KY_6\PTTKGT\BaiTap\11_XepTamHau\XepTamHau\XepTamHau\obj\Debug\XepTamHau.pdb
